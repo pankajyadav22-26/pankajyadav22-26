@@ -1,0 +1,47 @@
+[
+  {
+    "name": "ParkEase Haven",
+    "desc": "Developed a smart parking system enabling automated gate control with real-time vehicle detection and 99.9% acknowledgment reliability.",
+    "image": "notystackandroid",
+    "links": {
+      "view": "https://drive.google.com/file/d/1BYU3OtgNQ352-uq6fIZung-4nnhtiFNr/view?usp=sharing",
+      "code": "https://github.com/pankajyadav22-26/parkEase_Haven"
+    }
+  },
+  {
+    "name": "Bound by Books",
+    "desc": "Bookstore website with user authentication, a responsive frontend showcasing recent and all books, and a robust user profile with favourites, orders, cart management, and address updates.Admin functionalities for adding and deleting books, managing orders, and updating order status",
+    "image": "notystackandroid",
+    "links": {
+      "view": "https://boundbybooks29.netlify.app",
+      "code": "https://github.com/pankajyadav22-26/Bound-by-Books"
+    }
+  },
+  {
+    "name": "Crop Companion",
+    "desc": "An AI-powered crop cycle management system for farmers, integrating 8+ agricultural stages (sowing, irrigation, pest control, harvesting, yield) with dynamic UI",
+    "image": "notystackandroid",
+    "links": {
+      "view": "https://cropcompanion-dnb9.onrender.com",
+      "code": "https://github.com/pankajyadav22-26/CropCompanion"
+    }
+  },
+  {
+    "name": "NITD Placement Ops",
+    "desc": "NITD Placement Ops is a role-based placement portal designed for NIT Delhi to streamline campus recruitment. It supports secure authentication, password reset. Built with Next.js and Node.js, the platform offers a responsive, user-friendly interface with dark mode support.",
+    "image": "notystackandroid",
+    "links": {
+      "view": "https://nitdplacementops.vercel.app",
+      "code": "https://github.com/pankajyadav22-26/nitd_placement_ops"
+    }
+  },
+  {
+    "name": "Speedy Feast",
+    "desc": "A responsive food delivery website featuring user login, signup, add-to-cart functionality, and a Stripe payment gateway. The site offers various food categories for customers. Additionally, I created a password-protected admin panel for managing food items, viewing all orders, and adding new products.",
+    "image": "notystackandroid",
+    "links": {
+      "view": "https://foodwebsite-frontend.onrender.com",
+      "code": "https://github.com/pankajyadav22-26/SpeedyFeast"
+    }
+  }
+]
