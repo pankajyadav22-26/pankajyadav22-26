@@ -17,7 +17,7 @@
 - [CropCompanion](https://github.com/pankajyadav22-26/CropCompanion)
 
 ### 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/pankaj-yadav29/) | [Portfolio](https://pankajyadav.onrender.com) -->
+[LinkedIn](https://www.linkedin.com/in/pankaj-yadav29/) | [Portfolio](https://pankajyadav.onrender.com)
 
 
 *Thanks for stopping by! Feel free to check out my projects or connect with me.*
